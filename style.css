@@ -1,0 +1,19 @@
+/* Meyer féle CSS reset */
+
+<link rel="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.cssˇ"></a>
+
+
+
+
+/* own style */
+
+h1, h2, caption {
+	text-align: center;
+}
+
+
+img {
+	width: 98%;
+	height: auto;
+	border-radius: 5%;
+}
