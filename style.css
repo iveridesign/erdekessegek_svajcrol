@@ -98,12 +98,17 @@ p{
 	line-height: 1,5em;
 }
 
+
 a {
 	color: blue;
 }
 
 a:hover {
 	color: white;
+}
+
+.header_link {
+	text-align: center;
 }
 
 .kiemelt {
@@ -119,14 +124,14 @@ ul, li {
 	padding-left: 20px;
 }
 
-#italic {
-	font-style: italic;
-	font-family: Arial, sans-serif;
-	font-size: 16px;
-	line-height: 1,5em;
-	text-shadow: transparent;
+i {
+  font-style: italic;
+  color: grey;
 }
 
+i:hover {
+	color: brown;
+}
 
 footer {
 	background-color: rgba(255, 168, 118, 0.5);
