@@ -104,10 +104,12 @@ a {
 }
 
 a:hover {
-	color: white;
+	color: lightblue;
 }
 
-.header_link {
+a
+
+.local-link1, local-link2 {
 	text-align: center;
 }
 
@@ -126,11 +128,11 @@ ul, li {
 
 i {
   font-style: italic;
-  color: grey;
+  color: blue; 
 }
 
 i:hover {
-	color: brown;
+	color: lightblue;
 }
 
 footer {
