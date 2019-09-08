@@ -124,6 +124,7 @@ ul, li {
 	text-align: left;
 	list-style: square;
 	padding-left: 20px;
+	width: 100%;
 }
 
 i {
@@ -143,7 +144,7 @@ table, th, td {
 	border: 2px dotted white;
    	border-collapse: collapse;
    	text-align: center;
-}
+ }
 
 th, td {
     text-align: center;
